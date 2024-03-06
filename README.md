@@ -3,11 +3,6 @@
 
  # Advanced Programming (Java) - Course Assessment
 
-## Course Information
-- **Course Name:** Advanced Programming (Java)
-- **Current Week:** 5th March 2024
-- **Submission Date:** 13th March 2024
-
 ## Introduction
 This repository contains the solutions for the Quantitative Assessment Practice as part of the Advanced Programming (Java) course. The assessment is designed to gauge the understanding of the class in terms of the review material covered in the previous weeks. The completion of this assessment is mandatory, and students must complete a minimum of 80% of their assigned QAPs per course.
 
